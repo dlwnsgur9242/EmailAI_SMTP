@@ -29,5 +29,7 @@ Weather API
 ![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/fa20581d-2e70-4c7b-91d3-561c49b92763)
 ![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/bfeb0c26-3bd6-48cd-a309-cfb5dc77b4be)
 
-![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/55244bf4-bba1-4cf6-84a2-e8b626cd864a)
+
+![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/69e20b29-ba06-4793-b9fc-1979550307c5)
+
 
