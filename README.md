@@ -26,8 +26,8 @@ Weather API
 <br>
 <br>
 
+### 이메일 제목 + 내용 입력
 ![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/fa20581d-2e70-4c7b-91d3-561c49b92763)
-![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/bfeb0c26-3bd6-48cd-a309-cfb5dc77b4be)
 <br>
 <br>
 
@@ -44,18 +44,24 @@ Weather API
 <br>
 ### 이메일 수신 확인
 ![2](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/d8299600-056c-4182-96a7-c5b6973dcc34)
-
-### 주소록 관리
+<br>
+<br>
+<br>
+# 주소록 관리
 ![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/091aeba8-176c-4b54-884e-f2aa1565e4df)
+<br>
 ### 주소록 보기
 ![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/98e0148a-516f-4631-b360-e9f0e335775f)
-
-### 주소록 보기
-![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/eb311dde-1481-406c-9384-8a917c2e9245)
-
+![4](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/2da06135-933f-4f44-a2ab-1949c137bdd0)
+<br>
 ### 연락처 추가
+![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/eb311dde-1481-406c-9384-8a917c2e9245)
+<br>
+### 연락처 삭제
 ![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/411224b5-4108-4018-8188-dd1ef20b5735)
+![3](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/aa4c5e71-487d-41bf-8036-f5a2f6775dd2)
 
+<br>
 ### 연락처 삭제
 ![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/087cdd91-17e1-4240-8ec6-394b319b21a0)
 
