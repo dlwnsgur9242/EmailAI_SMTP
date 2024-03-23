@@ -55,6 +55,11 @@ Weather API
 <br>
 <br>
 
+### 주소록 보기
+![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/98e0148a-516f-4631-b360-e9f0e335775f)
+<br>
+<br>
+
 ### 연락처 추가
 ![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/eb311dde-1481-406c-9384-8a917c2e9245)
 <br>
@@ -63,8 +68,7 @@ Weather API
 <br>
 <br>
 
-### 주소록 보기
-![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/98e0148a-516f-4631-b360-e9f0e335775f)
+### 주소록에 추가된 새 연락처(다람이)
 ![4](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/2da06135-933f-4f44-a2ab-1949c137bdd0)
 <br>
 <br>
