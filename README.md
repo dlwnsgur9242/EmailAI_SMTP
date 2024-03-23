@@ -1,2 +1,2 @@
 # EmailAI_SMTP
-Email_AI
+Automatic completion of mail AI Web
