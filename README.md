@@ -6,11 +6,11 @@ Automatic completion of mail AI Web
 
 # Tech Stack
 <pre>
+IMAP/SMTP
 conda 23.7.4
 jupyter notebook 6.5.4
 streamlit 1.32.0
-OpenAI Chat completions API
-Weather API
+OpenAI Chat completions API model="gpt-3.5-turbo"
 </pre>
 <br>
 <br>
