@@ -90,6 +90,11 @@ OpenAI Chat completions API model="gpt-3.5-turbo"
 ![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/21531e92-f9ff-4891-b776-70f983ecda0c)
 
 
+# 주소록JSON 파일
+### address_book.json
+![image](https://github.com/dlwnsgur9242/EmailAI_SMTP/assets/90494150/51864b4c-c6ed-4b09-a1ba-84fa079a3e34)
+
+
 
 
 
