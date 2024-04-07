@@ -17,10 +17,10 @@ def smtp_setting_login(option="gmail"):
         email_address = smtp_config[option]["email_address"]
         password = smtp_config[option]["password"]
     else:
-        smtp_server = smtp_config[option]["smtp_server"]
-        port = smtp_config[option]["port"]
-        email_address = smtp_config[option]["email_address"]
-        password = smtp_config[option]["password"]
+        smtp_server = os.getenv("SMTP_SERVER", "smtp.gmail.com")
+        port = int(os.getenv("PORT", 587))
+        email_address = os.getenv("EMAIL_ADDRESS", "dlwnsgur9242@gmail.com")
+        password = os.getenv("PASSWORD", "exld tjmu izqb zeye")
     
     # SMTP 서버에 연결 및 로그인
     smtp = smtplib.SMTP(smtp_server, port)
