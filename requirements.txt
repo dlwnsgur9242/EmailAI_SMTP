@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 openai==0.28.0
+=======
+streamlit
+openai
+>>>>>>> a6fb53e8ab6ebdfa62639ca720aa2351b0b99e79
