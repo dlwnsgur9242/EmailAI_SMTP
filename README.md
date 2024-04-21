@@ -1,5 +1,5 @@
 # EmailAI_SMTP
-AI web auto-completion transfer web
+AI mail auto-completion delivery web
 <br>
 <br>
 <br>
